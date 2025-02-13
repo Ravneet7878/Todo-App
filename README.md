@@ -1,7 +1,5 @@
 # Todo-App
 
-# **Todo App**  
-
 This is a simple **Todo App** built with **React + Vite**, which allows users to efficiently manage their tasks. The application supports adding, updating, completing, and deleting todos while persisting data using **local storage**.  
 
 ---
