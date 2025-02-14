@@ -29,7 +29,7 @@ This project uses **React Context API** for managing the state globally. Instead
 ### **Todo Context (`TodoContext.js`)**  
 
 ```javascript
-import { createContext, useContext } from "react";
+import { createContext, useContext } from "react"
 
 export const TodoContext = createContext({
     todos: [],
